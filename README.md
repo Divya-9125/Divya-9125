@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Divya-9125
+- 👋 Hi, I’m Divyadharshini.A
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning AI related course
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: SHE
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Full Stack Development 
+- 💞️ I’m looking to collaborate on Hakathons
+- ⚡ Fun fact: Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful
 
 <!---
 Divya-9125/Divya-9125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
